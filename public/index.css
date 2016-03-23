@@ -1,4 +1,11 @@
 .list-item {
 	padding:10px;
 	border-bottom: 1px solid #eee;
+	position: relative;
+}
+
+.close {
+	position: absolute;
+	right:0;
+	top: 10px;
 }
